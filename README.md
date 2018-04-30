@@ -7,6 +7,8 @@
 * [Scoring](#creators)
 * [External libraries Used](#ExternallibrariesUsed)
 
+## URL Game
+
 ## How To Play
 The game starts when open index.html or the link. Click the cards for show you the image, you should find all Matched cards that have the same image.
  The game ends when all pairs are revealed.
@@ -18,5 +20,4 @@ The game starts when open index.html or the link. Click the cards for show you t
 
 ##External libraries Used
 - sweetalert
-# Memory-Game
-# Memory-Game
+
